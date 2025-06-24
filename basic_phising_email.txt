@@ -1,0 +1,19 @@
+From: Masteercard <rewardservices@freemail.cc>    # ❌ Misspelled "Mastercard", sender uses free email service
+To: employee@email.com
+Subject: Your reward card is ready! Clam Now!      # ❌ "Clam" should be "Claim", unprofessional capitalization
+
+Dear user,                                        # ❌ Generic greeting, no personalization
+
+Congratulation!                                   # ❌ Should be "Congratulations"
+You have been selected for a reward by
+Masteercard for been loyal employee.              # ❌ Bad grammar: "for been loyal employee" → "for being a loyal employee"
+
+Please click the below link to clame your prize:  # ❌ Misspelled "clame", phishing link below
+
+http://masteercard-rewards.in/freegift            # ❌ Unsecured link, fake domain, misspelled brand
+
+If you dont do it in 24 hrs your reward will
+be cancled.                                       # ❌ "dont" → "don’t", "cancled" → "cancelled"
+
+Sincerely,
+Rewards Team                                      # ❌ No official signature or branding
